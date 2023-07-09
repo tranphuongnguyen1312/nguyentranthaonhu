@@ -11,7 +11,7 @@ function ShowToast() {
 
 function Tiktok() {
   setTimeout(function() {
-    window.open('https://www.tiktok.com/@everwing1312', '_blank')},
+    window.open('https://www.tiktok.com/@wwpewppi._tnhuu', '_blank')},
   100);
 }
 function Facebook() {
@@ -26,7 +26,7 @@ function Discord() {
 }
 function Instagram() {
   setTimeout(function() {
-    window.open('https://github.com/EverWing1312', '_blank')},
+    window.open('https://www.instagram.com/wwepitn/', '_blank')},
   100);
 }
 
