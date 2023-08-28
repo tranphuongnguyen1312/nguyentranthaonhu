@@ -11,12 +11,12 @@ function ShowToast() {
 
 function Tiktok() {
   setTimeout(function() {
-    window.open('https://www.tiktok.com/@wwpewppi._tnhuu', '_blank')},
+    window.open('https://www.tiktok.com/@ilwwpe?_t=8fD99QOQQtT&_r=1&fbclid=IwAR0fls9L8jHks8LI-1XYZHt73LUg1dhXOWvcGcTz7SIH2GbEf3BVrUzuWDo', '_blank')},
   100);
 }
 function Facebook() {
   setTimeout(function() {
-    window.open('https://www.facebook.com/ngtrthnhu22?mibextid=LQQJ4d', '_blank')},
+    window.open('https://www.facebook.com/profile.php?id=100066710950685&mibextid=ZbWKwL', '_blank')},
   100);
 }
 function Discord() {
@@ -26,7 +26,7 @@ function Discord() {
 }
 function Instagram() {
   setTimeout(function() {
-    window.open('https://www.instagram.com/wwepitn/', '_blank')},
+    window.open('https://www.instagram.com/lmkwwpe/?igshid=OGQ5ZDc2ODk2ZA%3D%3D&fbclid=IwAR13YF9IYObxeVXYq0gqfF5Yw2LRoQRl11wrYxTSdBzS3xtmx6nB2OCGvak', '_blank')},
   100);
 }
 
@@ -34,8 +34,8 @@ TurnonHomeThanhDieu();
 
     function TurnonHomeThanhDieu() {
         Swal.fire(
-			'Nguyễn Trần Thảo Như <3',
-            'Facebook: Nguyễn Trần Thảo Như',
+			'Nguyễn Trần Thảo Như ♥',
+            'Facebook: Nguyễn Trần Thảo Như ',
             'success'
         )
     }
