@@ -16,7 +16,7 @@ function Tiktok() {
 }
 function Facebook() {
   setTimeout(function() {
-    window.open('https://www.facebook.com/profile.php?id=100066710950685&mibextid=ZbWKwL', '_blank')},
+    window.open('https://www.facebook.com/ngtrthnhu22', '_blank')},
   100);
 }
 function Discord() {
